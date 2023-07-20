@@ -1,4 +1,4 @@
-Here is an explanation of what each line in this batch script does:
+## Here is an explanation of what each line in this batch script does:
 
 ```
 @echo off  
