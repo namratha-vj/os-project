@@ -1,4 +1,4 @@
-## This is a simple terminal lock program in Windows batch scripting. Here is an explanation of what each line does:
+## This is a simple terminal lock program in Windows batch scripting. Here is an explanation of the code:
 
 ```
 @echo off
@@ -101,8 +101,7 @@ So in summary, it prompts for a password, stores and validates it, then locks th
 ----
 
 
-## Here is an explanation of what each line in the file properties batch script does batch script does:
-```
+## Here is an explanation of the code file properties batch script does:```
 @echo off  
 ```
 
@@ -153,7 +152,7 @@ file %~1
 
 Runs the file command to print detailed file properties and metadata.
 
-So in summary:
+So in summary of the script:
 
 - It checks for a file name argument 
 - Prints some headers
